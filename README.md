@@ -1,3 +1,39 @@
+# How to run project
+
+## git clone
+<code>git clone https://github.com/DorsalMedia/SimbaGPT.git</code>
+
+## install XAMPP with php 5.* version
+
+you can download xampp in here.
+
+<code>https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/</code>
+
+## set documentroot as your project root directory path that include index.php in *Appach(httpd.conf)* file.
+
+
+## MySQL server in XAMPP
+
+## Make new rydlr_new mysql database
+
+to this you can use <code>navicat</code> or <code>sqllog</code> etc...
+
+*exeute rydlr.sql*
+
+## Apache server in XAMPP
+
+## Access localhost 
+
+Maybe you will see login page.
+And you can login with this credential.
+
+username:  <code>newAdmin</code>
+password:  <code>Star123!@#</code>
+
+
+# Project Requirements
+
+
 [Mediacent Tools _ Tech.docx](https://github.com/user-attachments/files/16081102/Mediacent.Tools._.Tech.docx)
 [Mediacent System Architecture.docx](https://github.com/user-attachments/files/16081112/Mediacent.System.Architecture.docx)
 [Rydlr Product Requirement Document.docx](https://github.com/user-attachments/files/16081117/Rydlr.Product.Requirement.Document.docx)
